@@ -1,19 +1,25 @@
-- 👋 Hi, I’m @Onyelaudochukwuka
-- 👀 I’m a Web Developer
-My strong points are;
-i). problem solving
-ii). Critical thinking
-I work with
-i).HTML
-ii).CSS3
-iii).JavaScript
-iv). Node.js
-v). React.js
-vi). jQuery
-vii). Scss
-viii). Bootstrap
-ix). AOS(Animate On Scroll)
-You can reach me on twitter @OnyelaUdochukw1 Or send me a mail on udochukwukaonyela@gmail.com.
+<h1>👋 Hi, I’m @Onyelaudochukwuka</h1>
+<h3>I’m a Web Developer</h2>
+
+<pre>My strong points are;</pre>
+<ul>
+  <li>problem solving</li>
+  <li>Critical thinking</li>
+  </ul>
+<pre>I'm proficient in;</pre>
+<ol>
+  <li><b>HTML</b></li>
+  <li><b>CSS3</b></li>
+  <li><b>JavaScript</b></li>
+  <li><b>Scss</b></li>
+  <li>Node.js</li>
+  <li>React.js</li>
+  <li>jQuery</li>
+  <li>Bootstrap</li>
+  <li>AOS(Animate On Scroll)</li>
+  <li>The terminal</li>
+  </ol>
+You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
 Thanks for your time ^_^.
 
 <!---
