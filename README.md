@@ -1,8 +1,20 @@
 - 👋 Hi, I’m @Onyelaudochukwuka
-- 👀 I’m interested in Web designing
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me twitter(@OnyelaUdochukw1) and email(udochukwukaonyela@gmail.com).
+- 👀 I’m a Web Developer
+My strong points are;
+i). problem solving
+ii). Critical thinking
+I work with
+i).HTML
+ii).CSS3
+iii).JavaScript
+iv). Node.js
+v). React.js
+vi). jQuery
+vii). Scss
+viii). Bootstrap
+ix). AOS(Animate On Scroll)
+You can reach me on twitter @OnyelaUdochukw1 Or send me a mail on udochukwukaonyela@gmail.com.
+Thanks for your time ^_^.
 
 <!---
 Onyelaudochukwuka/Onyelaudochukwuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
