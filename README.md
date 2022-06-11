@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Onyelaudochukwuka</h1>
+<h1>👋 Hi, I'm Onyela udochukwuka</h1>
 <h3>I’m a Web Developer</h2>
 
 <pre>My strong points are;</pre>
@@ -16,8 +16,8 @@
   <li>React.js</li>
   <li>jQuery</li>
   <li>Bootstrap</li>
-  <li>AOS(Animate On Scroll)</li>
-  <li>The terminal</li>
+  <li>Typescript</li>
+  <li>GraphQl</li>
   </ol>
 You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
 Thanks for your time ^_^.
