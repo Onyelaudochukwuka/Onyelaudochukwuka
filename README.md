@@ -19,7 +19,7 @@
   <li>AOS(Animate On Scroll)</li>
   <li>The terminal</li>
   </ol>
-You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="mail:udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
+You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
 Thanks for your time ^_^.
 
 <!---
