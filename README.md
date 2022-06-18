@@ -1,5 +1,7 @@
-#👋 Hi, I'm Onyela udochukwuka</h1>
-###I’m a Web Developer</h2>
+<h1>👋 Hi, I'm Onyela Udochukwuka</h1>
+
+### I’m a Web Developer
+
 ![Visitor Count](https://profile-counter.glitch.me/onyelaudochukwuka/count.svg)
 <pre>My strong points are;</pre>
 <ul>
