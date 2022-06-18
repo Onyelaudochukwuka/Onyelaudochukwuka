@@ -11,7 +11,7 @@
   <li><b>HTML</b></li>
   <li><b>CSS3</b></li>
   <li><b>JavaScript</b></li>
-  <li>pre-processors[<b>Scss</b>, <b>Sass</b>]</li>
+  <li>pre-processors[<b>Scss</b>]</li>
   <li>Node.js</li>
   <li>React.js</li>
 <li>Next.js,</li>
