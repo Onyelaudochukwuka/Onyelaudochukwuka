@@ -25,6 +25,9 @@
 
 ![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyelaudochukwuka)
 
+ 
+ ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=onyelaudochukwuka)](https://github.com/onyelaudochukwuka)<br>
+
 ##### You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
 Thanks for your time ^_^.
 
