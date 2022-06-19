@@ -3,12 +3,15 @@
 ### I’m a Web Developer
 
 ![Visitor Count](https://profile-counter.glitch.me/onyelaudochukwuka/count.svg)
-<pre>My strong points are;</pre>
+ ## My strong points are;
+<pre>
 <ul>
   <li>problem solving</li>
   <li>Critical thinking</li>
   </ul>
-<pre>I'm proficient in;</pre>
+</pre>
+## I'm proficient in;
+<pre>
 <ol>
   <li><b>HTML</b></li>
   <li><b>CSS3</b></li>
@@ -22,7 +25,7 @@
   <li>Typescript</li>
   <li>GraphQl</li>
   </ol>
-
+</pre>
 ![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyelaudochukwuka)
 
  
