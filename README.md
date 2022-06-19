@@ -19,7 +19,7 @@
   <li>pre-processors[<b>Scss</b>]</li>
   <li>Node.js</li>
   <li>React.js</li>
-<li>Next.js,</li>
+  <li>Next.js</li>
   <li>jQuery</li>
   <li>Bootstrap</li>
   <li>Typescript</li>
