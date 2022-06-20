@@ -1,8 +1,16 @@
 <h1>👋 Hi, I'm Onyela Udochukwuka</h1>
 
 ### I’m a Web Developer
-
-![Visitor Count](https://profile-counter.glitch.me/onyelaudochukwuka/count.svg)
+<table align="center">
+  <tr>
+    <td>Profile Visitors</td>
+    <td height="25">
+     
+<img src="https://profile-counter.glitch.me/onyelaudochukwuka/count.svg" height="25" />
+     
+   </td>
+  </tr>
+</table>
  ## My strong points are;
 <pre>
 <ul>
@@ -30,6 +38,9 @@
 
  
  ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=onyelaudochukwuka)](https://github.com/onyelaudochukwuka)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelaudochukwuka)](https://github.com/onyelaudochukwuka/github-readme-stats)
+
 
 ##### You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
 Thanks for your time ^_^.
