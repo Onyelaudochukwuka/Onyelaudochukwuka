@@ -1,6 +1,7 @@
-<h1>👋 Hi, I'm Onyela Udochukwuka</h1>
+# 👋 Hi, I'm Onyela Udochukwuka
 
 ### I’m a Web Developer
+
 <table align="center">
   <tr>
     <td>Profile Visitors</td>
@@ -11,29 +12,32 @@
    </td>
   </tr>
 </table>
+
  ## My strong points are;
-<pre>
+ 
+
 <ul>
-  <li>problem solving</li>
-  <li>Critical thinking</li>
+  <pre><li>problem solving</li></pre>
+  <pre><li>Critical thinking</li></pre>
   </ul>
-</pre>
+
 ## I'm proficient in;
-<pre>
+
+
 <ol>
-  <li><b>HTML</b></li>
-  <li><b>CSS3</b></li>
-  <li><b>JavaScript</b></li>
-  <li>pre-processors[<b>Scss</b>]</li>
-  <li>Node.js</li>
-  <li>React.js</li>
-  <li>Next.js</li>
-  <li>jQuery</li>
-  <li>Bootstrap</li>
-  <li>Typescript</li>
-  <li>GraphQl</li>
+  <pre><li><b>HTML</b></li></pre>
+  <pre><li><b>CSS3</b></li></pre>
+  <pre><li><b>JavaScript</b></li></pre>
+  <pre><li>pre-processors[<b>Scss</b>]</li></pre>
+  <pre><li>Node.js</li></pre>
+  <pre><li>React.js</li></pre>
+  <pre><li>Next.js</li></pre>
+  <pre><li>jQuery</li></pre>
+  <pre><li>Bootstrap</li></pre>
+  <pre><li>Typescript</li></pre>
+  <pre><li>GraphQl</li></pre>
   </ol>
-</pre>
+
 ![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyelaudochukwuka)
 
  
