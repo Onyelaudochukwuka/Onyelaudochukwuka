@@ -17,25 +17,25 @@
  
 
 <ul>
-  <pre><li>problem solving</li></pre>
-  <pre><li>Critical thinking</li></pre>
+  <li><pre>problem solving</pre></li>
+  <li><pre>Critical thinking</pre></li>
   </ul>
 
 ## I'm proficient in;
 
 
 <ol>
-  <pre><li><b>HTML</b></li></pre>
-  <pre><li><b>CSS3</b></li></pre>
-  <pre><li><b>JavaScript</b></li></pre>
-  <pre><li>pre-processors[<b>Scss</b>]</li></pre>
-  <pre><li>Node.js</li></pre>
-  <pre><li>React.js</li></pre>
-  <pre><li>Next.js</li></pre>
-  <pre><li>jQuery</li></pre>
-  <pre><li>Bootstrap</li></pre>
-  <pre><li>Typescript</li></pre>
-  <pre><li>GraphQl</li></pre>
+ <li><pre><b>HTML</b></pre></li>
+ <li><pre><b>CSS3</b></pre></li>
+ <li><pre><b>JavaScript</b></pre></li>
+ <li><pre>pre-processors[<b>Scss</b>]</pre></li>
+ <li><pre>Node.js</pre></li>
+ <li><pre>React.js</pre></li>
+ <li><pre>Next.js</pre></li>
+ <li><pre>jQuery</pre></li>
+ <li><pre>Bootstrap</pre></li>
+ <li><pre>Typescript</pre></li>
+ <li><pre>GraphQl</pre></li>
   </ol>
 
 ![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyelaudochukwuka)
