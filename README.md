@@ -45,9 +45,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelaudochukwuka)](https://github.com/onyelaudochukwuka/github-readme-stats)
 
+### Contribution Graph
 
-##### You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
-Thanks for your time ^_^.
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Onyelaudochukwuka)
 
 ### Skills
 
@@ -65,6 +65,10 @@ Thanks for your time ^_^.
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+
+##### You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
+Thanks for your time ^_^.
 
 <!---
 Onyelaudochukwuka/Onyelaudochukwuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
