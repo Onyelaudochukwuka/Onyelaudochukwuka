@@ -13,6 +13,7 @@
   </tr>
 </table>
 
+# Skills
  ## My strong points are;
  
 
