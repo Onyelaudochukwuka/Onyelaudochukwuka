@@ -38,16 +38,23 @@
  <li><pre>GraphQl</pre></li>
   </ol>
 
-![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyelaudochukwuka)
-
- 
- ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=onyelaudochukwuka)](https://github.com/onyelaudochukwuka)<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelaudochukwuka)](https://github.com/onyelaudochukwuka/github-readme-stats)
-
 ### Contribution Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Onyelaudochukwuka)
+
+### Stats
+![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyelaudochukwuka)
+
+### Coding Streaks
+
+ ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=onyelaudochukwuka)](https://github.com/onyelaudochukwuka)<br>
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelaudochukwuka)](https://github.com/onyelaudochukwuka/github-readme-stats)
+
+
+
 
 ### Skills
 
