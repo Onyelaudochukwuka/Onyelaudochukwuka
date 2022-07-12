@@ -13,8 +13,9 @@
   </tr>
 </table>
 
-# Skills
- ## My strong points are;
+## Skills
+
+ ### My strong points are;
  
 
 <ul>
@@ -22,7 +23,7 @@
   <li><pre>Critical thinking</pre></li>
   </ul>
 
-## I'm proficient in;
+### I'm proficient in;
 
 
 <ol>
