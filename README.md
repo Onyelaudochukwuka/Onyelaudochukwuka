@@ -18,10 +18,8 @@
  ### My strong points are;
  
 
-<ul>
-  <li><pre>problem solving</pre></li>
-  <li><pre>Critical thinking</pre></li>
-  </ul>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=84A59D&size=30&lines=My+strong+points+are;problem+solving;Critical+thinking;And+I+love+building+stuff)](https://git.io/typing-svg)
 
 ### I'm proficient in;
 
@@ -50,6 +48,15 @@
 ### Coding Streaks
 
  ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=onyelaudochukwuka)](https://github.com/onyelaudochukwuka)<br>
+
+### Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
+
+![snake gif](https://github.com/onyelaudochukwuka/onyelaudochukwuka/blob/output/github-contribution-grid-snake.gif)
+
 
 ### Top Languages
 
