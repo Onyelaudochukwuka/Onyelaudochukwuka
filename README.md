@@ -15,9 +15,6 @@
 
 ## Skills
 
- ### My strong points are;
- 
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=84A59D&size=30&lines=My+strong+points+are;problem+solving;Critical+thinking;And+I+love+building+stuff)](https://git.io/typing-svg)
 
