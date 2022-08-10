@@ -48,7 +48,7 @@
 
 ### Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=onyelaudochukwuka)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
