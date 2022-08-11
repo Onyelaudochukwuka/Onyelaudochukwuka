@@ -32,6 +32,7 @@
  <li><pre>jQuery</pre></li>
  <li><pre>Bootstrap</pre></li>
  <li><pre>Typescript</pre></li>
+  <li><pre>Express.js</pre></li>
  <li><pre>GraphQl</pre></li>
   </ol>
 
