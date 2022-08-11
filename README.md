@@ -51,10 +51,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=onyelaudochukwuka)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
-
-![snake gif](https://github.com/onyelaudochukwuka/onyelaudochukwuka/blob/main/github-contribution-grid-snake.gif)
-
 
 ### Top Languages
 
