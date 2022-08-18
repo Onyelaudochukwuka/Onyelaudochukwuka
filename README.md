@@ -41,20 +41,20 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Onyelaudochukwuka)
 
 ### Stats
-![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=onyelaudochukwuka)
+![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onyelaudochukwuka)
 
 ### Coding Streaks
 
- ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=onyelaudochukwuka)](https://github.com/onyelaudochukwuka)<br>
+ ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuka)](https://github.com/Onyelaudochukwuka)<br>
 
 ### Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=onyelaudochukwuka)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Onyelaudochukwuka)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyelaudochukwuka)](https://github.com/onyelaudochukwuka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onyelaudochukwuka)](https://github.com/Onyelaudochukwuka/github-readme-stats)
 
 
 
