@@ -41,7 +41,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Onyelaudochukwuka)
 
 ### Stats
-![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onyelaudochukwuka)
+![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onyelaudochukwuka&count_private=true)
 
 ### Coding Streaks
 
