@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Onyela Udochukwuka
 
-### I’m a Web Developer
+### I’m a Full Stack Developer
 
 <table align="center">
   <tr>
