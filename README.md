@@ -47,6 +47,10 @@
 
  ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuka)](https://github.com/Onyelaudochukwuka)<br>
 
+### Coding Time
+
+[![wakatime](https://wakatime.com/badge/user/3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb.svg)](https://wakatime.com/@3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb)
+
 ### Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Onyelaudochukwuka)](https://github.com/ryo-ma/github-profile-trophy)
