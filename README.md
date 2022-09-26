@@ -81,6 +81,10 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
 
+## Badges
+
+[![@fumudukus's Holopin board](https://holopin.io/api/user/board?user=fumudukus)](https://holopin.io/@fumudukus)
+
 
 ##### You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
 Thanks for your time ^_^.
