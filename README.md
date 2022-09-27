@@ -85,7 +85,7 @@
 
 <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhlcTN6OWMwMzU3MDlsM2Z4OTluOHg2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" width="252" />
 
-##### You can reach me on twitter <a href="https://twitter.com/OnyelaUdochukw1">@OnyelaUdochukw1</a> Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
+##### You can reach me on twitter [FUMUDUKUS](https://twitter.com/FUMUDUKUS) Or send me a mail on <a href="udochukwukaonyela@gmail.com">udochukwukaonyela@gmail.com</a>.
 Thanks for your time ^_^.
 
 <!---
