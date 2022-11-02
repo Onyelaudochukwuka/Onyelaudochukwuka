@@ -34,6 +34,7 @@
  <li><pre>Typescript</pre></li>
   <li><pre>Express.js</pre></li>
  <li><pre>GraphQl</pre></li>
+ <li><pre>Jest</pre></li>
   </ol>
 
 ### Contribution Graph
