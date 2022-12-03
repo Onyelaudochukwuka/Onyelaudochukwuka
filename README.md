@@ -52,6 +52,7 @@
 ### Coding Time
 
 [![wakatime](https://wakatime.com/badge/user/3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb.svg)](https://wakatime.com/@3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb)
+<br />
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udoka)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Trophies
