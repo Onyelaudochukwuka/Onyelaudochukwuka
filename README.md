@@ -47,7 +47,7 @@
 
 ### Coding Streaks
 
- ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuk)](https://github.com/Onyelaudochukwuka)<br>
+ ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuka)](https://github.com/Onyelaudochukwuka)<br>
 
 ### Coding Time
 
