@@ -62,7 +62,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onyelaudochukwuka&count-private=true)](https://github.com/Onyelaudochukwuka/github-readme-stats&count-private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onyelaudochukwuka&count-private=true)](https://github.com/Onyelaudochukwuka)
 
 
 
