@@ -37,6 +37,8 @@
  <li><pre>Jest</pre></li>
   </ol>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+
 ### Contribution Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Onyelaudochukwuka)
