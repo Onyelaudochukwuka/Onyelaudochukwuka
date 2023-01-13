@@ -37,7 +37,7 @@
  <li><pre>Jest</pre></li>
   </ol>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Onyelaudochukwuka/langs)](https://githubtrends.io)
 
 ### Contribution Graph
 
