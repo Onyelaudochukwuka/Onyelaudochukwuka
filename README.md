@@ -24,6 +24,7 @@
  <li><pre><b>HTML</b></pre></li>
  <li><pre><b>CSS3</b></pre></li>
  <li><pre><b>JavaScript</b></pre></li>
+ <li><pre>GoLang</pre></li>
  <li><pre>pre-processors[<b>Scss</b>]</pre></li>
  <li><pre>Node.js</pre></li>
  <li><pre>React.js</pre></li>
