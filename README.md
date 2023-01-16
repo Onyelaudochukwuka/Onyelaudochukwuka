@@ -28,6 +28,7 @@
  <li><pre>pre-processors[<b>Scss</b>]</pre></li>
  <li><pre>Node.js</pre></li>
  <li><pre>React.js</pre></li>
+ <li><pre>React Native</pre></li>
  <li><pre>Next.js</pre></li>
  <li><pre>jQuery</pre></li>
  <li><pre>Bootstrap</pre></li>
