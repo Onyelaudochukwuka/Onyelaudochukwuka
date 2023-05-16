@@ -30,6 +30,7 @@
  <li><pre>React.js</pre></li>
  <li><pre>React Native</pre></li>
  <li><pre>Next.js</pre></li>
+   <li><pre>Angular</pre></li>
  <li><pre>jQuery</pre></li>
  <li><pre>Bootstrap</pre></li>
   <li><pre>TailwindCss</pre></li>
