@@ -23,16 +23,14 @@
  <li><pre><b>HTML</b></pre></li>
  <li><pre><b>CSS3</b></pre></li>
  <li><pre><b>JavaScript</b></pre></li>
+  <li><pre>TailwindCss</pre></li>
  <li><pre>GoLang</pre></li>
  <li><pre>pre-processors[<b>Scss</b>]</pre></li>
  <li><pre>Node.js</pre></li>
- <li><pre>React.js</pre></li>
+ <li><pre>React.js/Next.js</pre></li>
  <li><pre>React Native</pre></li>
- <li><pre>Next.js</pre></li>
-   <li><pre>Angular</pre></li>
  <li><pre>jQuery</pre></li>
  <li><pre>Bootstrap</pre></li>
-  <li><pre>TailwindCss</pre></li>
  <li><pre>Typescript</pre></li>
   <li><pre>Express.js</pre></li>
   <li><pre>Nest.js</pre></li>
