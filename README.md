@@ -46,7 +46,7 @@
 
 
 ### Stats
-![Udoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onyelaudochukwuka&count_private=true)
+![Udoka's GitHub stats](https://github-stats-seven-lemon.vercel.app/api?username=Onyelaudochukwuka&count_private=true)
 
 ### Coding Streaks
 
@@ -56,7 +56,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb.svg)](https://wakatime.com/@3cb90ed5-1bb9-4b97-a943-3c8e85a6dcbb)
 <br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udoka)](https://github.com/anuraghazra/github-readme-stats)
+[![Udoka's wakatime stats](https://github-stats-seven-lemon.vercel.app/api/wakatime?username=udoka)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Trophies
 
@@ -65,7 +65,7 @@
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onyelaudochukwuka&count-private=true&langs_count=10)](https://github.com/Onyelaudochukwuka)
+[![Top Langs](https://github-stats-seven-lemon.vercel.app/api/top-langs/?username=Onyelaudochukwuka&count-private=true&langs_count=10)](https://github.com/Onyelaudochukwuka)
 
 
 
