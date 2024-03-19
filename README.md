@@ -60,7 +60,7 @@
 
 ### Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Onyelaudochukwuka)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophy-nine.vercel.app/?username=Onyelaudochukwuka&title=Stars,Followers,MultiLanguage,Organizations,Commits,PullRequest,Issues,Stars,Repository)](https://github-trophy-nine.vercel.app/?username=Onyelaudochukwuka)
 
 
 ### Top Languages
