@@ -5,10 +5,9 @@
 <table align="center">
   <tr>
     <td>Profile Visitors</td>
-    <td height="25>    
-<img src="https://profile-counter.glitch.me/onyelaudochukwuka/count.svg" height="25" />
-     
-   </td>
+<td>
+<img src="https://profile-counter.glitch.me/onyelaudochukwuka/count.svg"  height="25" />
+    </td> 
   </tr>
 </table>
 
