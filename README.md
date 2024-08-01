@@ -14,7 +14,7 @@
 ## Skills
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=84A59D&size=30&lines=Product+centric+dev;Open+Sourcer;My+strong+points+are;problem+solving;Critical+thinking;And+I+love+building+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&color=84A59D&size=30&lines=Product+Centric+Full+Stack+Engineer;Open+Sourcer;My+strong+points+are;problem+solving;Critical+thinking;And+I+love+building+stuff)](https://git.io/typing-svg)
 
 ### I'm proficient in;
 
