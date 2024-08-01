@@ -37,11 +37,10 @@
  <li><pre>Jest</pre></li>
   </ol>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Onyelaudochukwuka/langs)](https://githubtrends.io)
 
 ### Contribution Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Onyelaudochukwuka)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Onyelaudochukwuka&theme=github-compact)
 
 
 ### Stats
