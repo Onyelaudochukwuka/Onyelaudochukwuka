@@ -24,6 +24,7 @@
  <li><pre><b>JavaScript</b></pre></li>
   <li><pre>TailwindCss</pre></li>
  <li><pre>GoLang</pre></li>
+   <li><pre>Rust</pre></li>
  <li><pre>pre-processors[<b>Scss</b>]</pre></li>
  <li><pre>Node.js</pre></li>
  <li><pre>React.js/Next.js</pre></li>
@@ -35,6 +36,7 @@
   <li><pre>Nest.js</pre></li>
  <li><pre>GraphQl</pre></li>
  <li><pre>Jest</pre></li>
+  
   </ol>
 
 
