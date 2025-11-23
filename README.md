@@ -50,7 +50,7 @@
 
 ### Coding Streaks
 
- ​[![​GitHub Streak​](https://github-readme-streak-stats.herokuapp.com/?user=Onyelaudochukwuka&starting_year=2021)](https://github.com/Onyelaudochukwuka)<br>
+ ​[![​GitHub Streak​](https://github-readme-streak-stats-nine-lake.vercel.app/?user=Onyelaudochukwuka&starting_year=2021)](https://github.com/Onyelaudochukwuka)<br>
 
 ### Coding Time
 
