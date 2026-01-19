@@ -49,7 +49,7 @@
 ![Udoka's GitHub stats](https://github-stats-seven-lemon.vercel.app/api?username=Onyelaudochukwuka&count_private=true)
 
 ### Coding Streaks
- ![GitHub Streak](https://github-readme-streak-stats-nine-lake.vercel.app?user=Onyelaudochukwuka)
+ ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Onyelaudochukwuka)
 
 ### Coding Time
 
