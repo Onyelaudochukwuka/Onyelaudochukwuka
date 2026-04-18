@@ -10,7 +10,7 @@ I design, build, and ship end‑to‑end products, from architecture and APIs to
 
 ## At a glance
 
-- 3+ years of daily coding and consistent open‑source activity  
+- 5+ years of professional experience, 3+ years of daily coding and consistent open‑source activity  
 - Lead / founding‑style engineer on early‑stage products and startups  
 - Comfortable owning architecture, implementation, and product decisions end‑to‑end  
 
