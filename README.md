@@ -102,6 +102,6 @@ You’ll find my GitHub stats, streaks, Wakatime graphs, and trophies below, the
 
 - Website: [udoka.dev](https://www.udoka.dev)  
 - X / Twitter: [@UdochukwukaO](https://x.com/UdochukwukaO)  
-- Email: udochukwukaonyela@gmail.com  
+- Email: udochukwukaonyela@gmail.com / udoka@udoka.dev
 
 Thanks for stopping by.
